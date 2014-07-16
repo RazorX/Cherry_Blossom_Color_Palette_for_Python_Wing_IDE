@@ -1,4 +1,4 @@
-Cherry Blossom Color Palette for Wing IDE
+Cherry Blossom Palette for Wing IDE
 ==========================
 Optional color palette for the Python Wing IDE
 
