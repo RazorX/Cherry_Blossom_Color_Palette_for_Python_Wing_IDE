@@ -1,0 +1,82 @@
+#Cherry Blossom - version 1.0
+
+default.fore: #0A1D28
+default.back: #0A1D28
+default.bold: 
+default.italic: 
+default.eolfilled: 
+commentline.fore: #50707F
+commentline.back: 
+commentline.bold: 
+commentline.italic: 
+commentline.eolfilled: 
+number.fore: #FC3C73 
+number.back: 
+number.bold: 
+number.italic: 
+number.eolfilled: 
+string.fore: #FFFFFF
+string.back: 
+string.bold: 
+string.italic: 
+string.eolfilled: 
+character.fore: #FFFFFF
+character.back: 
+character.bold: 
+character.italic: 
+character.eolfilled: 
+word.fore: #FC3C73
+word.back: 
+word.bold: 
+word.italic: 
+word.eolfilled: 
+triple.fore: #FFFFFF
+triple.back: 
+triple.bold: 
+triple.italic: 
+triple.eolfilled: 
+tripledouble.fore: #FFFFFF
+tripledouble.back: 
+tripledouble.bold: 
+tripledouble.italic: 
+tripledouble.eolfilled: 
+classname.fore: #5DEEDF
+classname.back: 
+classname.bold: 
+classname.italic: 
+classname.eolfilled: 
+defname.fore: #5EFEC5
+defname.back: 
+defname.bold: 
+defname.italic: 
+defname.eolfilled: 
+operator.fore: #8AD9FF
+operator.back: 
+operator.bold: 
+operator.italic: 
+operator.eolfilled: 
+identifier.fore: #FF83AF
+identifier.back: 
+identifier.bold: 
+identifier.italic: 
+identifier.eolfilled: 
+commentblock.fore: #50707F
+commentblock.back: 
+commentblock.bold: 
+commentblock.italic: 
+commentblock.eolfilled: 
+stringeol.fore: #73374D
+stringeol.back:
+stringeol.bold: 
+stringeol.italic: 
+stringeol.eolfilled: 1
+word2.fore: #E496FD
+word2.back: 
+word2.bold: 
+word2.italic: 
+word2.eolfilled: 
+decorator.fore: #BBF39F
+decorator.back: 
+decorator.bold: 
+decorator.italic: 
+decorator.eolfilled: 
