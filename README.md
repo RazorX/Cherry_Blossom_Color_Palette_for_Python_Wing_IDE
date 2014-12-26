@@ -6,7 +6,7 @@ Optional color palette for the Python Wing IDE
 
 About
 ==========================
-Cherry Blossom is a custom color scheme designed for the Python Wing IDE. The scheme is the color approximation of a #FC3C73 Tetrad with high contrast.
+Cherry Blossom is a custom color scheme designed for the Python Wing IDE. The scheme is the color approximation of a #FC3C73 Triad with high contrast.
 
 Author: RazorX aka Daniel Hill 
 

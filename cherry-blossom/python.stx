@@ -1,6 +1,6 @@
-#Cherry Blossom - version 1.0
+#Cherry Blossom - version 1.1
 
-default.fore: #0A1D28
+default.fore: #50707F
 default.back: #0A1D28
 default.bold: 
 default.italic: 
@@ -20,7 +20,7 @@ string.back:
 string.bold: 
 string.italic: 
 string.eolfilled: 
-character.fore: #FFFFFF
+character.fore: #6B93A6
 character.back: 
 character.bold: 
 character.italic: 
@@ -30,17 +30,17 @@ word.back:
 word.bold: 
 word.italic: 
 word.eolfilled: 
-triple.fore: #FFFFFF
+triple.fore: #50707F
 triple.back: 
 triple.bold: 
 triple.italic: 
 triple.eolfilled: 
-tripledouble.fore: #FFFFFF
+tripledouble.fore: #366E8A
 tripledouble.back: 
 tripledouble.bold: 
 tripledouble.italic: 
 tripledouble.eolfilled: 
-classname.fore: #5DEEDF
+classname.fore: #40FBFD
 classname.back: 
 classname.bold: 
 classname.italic: 
